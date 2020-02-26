@@ -9,4 +9,9 @@
       <initValue>'AX'</initValue>
       <name>countryISOCode</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bobby'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
